@@ -54,6 +54,9 @@ public class Listpra {
 			
 		}
 		
+		a.add(6, "vijay");
+		a.add(7, "kumar" );
+		System.out.println(a);
 		
 		
 		
