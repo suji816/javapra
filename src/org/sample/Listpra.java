@@ -54,7 +54,12 @@ public class Listpra {
 			
 		}
 		
-		
+		a.add(10, "s");
+		a.add(11, "u");
+		a.add(12, "j");
+		a.add(13, "t");
+		a.add(14, "h");
+		a.add(15, "k");
 		
 		
 		
